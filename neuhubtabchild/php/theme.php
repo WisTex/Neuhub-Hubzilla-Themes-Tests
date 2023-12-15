@@ -21,6 +21,6 @@
 
 function neuhubtabchild_init(&$App) {
 
-    App::$theme_info['extends'] = 'neuhubtabparent';
+    App::$theme_info['extends'] = 'neuhubtab';
 
 }
